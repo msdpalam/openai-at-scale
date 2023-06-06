@@ -1,0 +1,6 @@
+flask
+python-dotenv
+requests
+openai
+numpy==1.24.2
+aiofiles==23.1.0
